@@ -27,7 +27,7 @@ Below are screenshots of the application successfully predicting traffic signs:
 ### Example 2: Keep Left
 ![Keep Left Prediction](https://github.com/BhargaviM0729/Traffic-Sign-Recognition-Using-Convolutional-Neural-Networks-with-Interactive-Gradio-Deployment/blob/5196497824838473ceda52bf9ca48d60aa9401c0/Images/Turn_Left.png)
 
-> Both predictions returned a **100% confidence score**, demonstrating excellent model performance on these examples.
+Both predictions returned a **100% confidence score**, demonstrating excellent model performance on these examples.
 
 ## Requirements
 
