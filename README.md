@@ -16,15 +16,16 @@ This project demonstrates a simple deep learning-based Traffic Sign Recognition 
 2. The model processes the image and classifies it into one of the trained categories.
 3. The predicted class label and confidence score are displayed.
 
-## 📷 Sample Outputs
+## Sample Outputs
 
 Below are screenshots of the application successfully predicting traffic signs:
 
 ### Example 1: Stop Sign
-![Stop Sign Prediction](./outputs/Screenshot_63.png)
+![Stop Sign Prediction](https://raw.githubusercontent.com/BhargaviM0729/Traffic-Sign-Recognition-Using-Convolutional-Neural-Networks-with-Interactive-Gradio-Deployment/main/Images/Stop_Sign.png)
+
 
 ### Example 2: Keep Left
-![Keep Left Prediction](./outputs/Screenshot_62.png)
+![Keep Left Prediction](https://github.com/BhargaviM0729/Traffic-Sign-Recognition-Using-Convolutional-Neural-Networks-with-Interactive-Gradio-Deployment/blob/5196497824838473ceda52bf9ca48d60aa9401c0/Images/Turn_Left.png)
 
 > Both predictions returned a **100% confidence score**, demonstrating excellent model performance on these examples.
 
