@@ -1,5 +1,5 @@
 # Traffic-Sign-Recognition-Using-Convolutional-Neural-Networks-with-Interactive-Gradio-Deployment
-# Traffic Sign Recognition using CNN and Gradio
+
 
 This project demonstrates a simple deep learning-based Traffic Sign Recognition system built with TensorFlow/Keras and deployed using Gradio. The model is capable of classifying various traffic signs (e.g., Stop, Keep Left) with high accuracy.
 
